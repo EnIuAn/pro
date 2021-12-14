@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="title_activity_quiz">QuizActivity</string>
+    <string name="correct_toast">你选对了！</string>
+    <string name="incorrect_toast">你选错了！</string>
+    <string name="question_peking">中国的首都是北京！</string>
+    <string name="question_oceans">太平洋比大西洋大！</string>
+    <string name="question_mideast">苏伊士运河连接红海和印度洋！</string>
+    <string name="question_africa">尼罗河的源头位于埃及！</string>
+    <string name="question_americas">亚马逊河是美国最长的河流！</string>
+    <string name="question_asia">贝加尔湖是世界上最古老及最深的淡水湖！</string>
+    <string name="question_yangtze">长江是中国最长的河流！</string>
+    <string name="true_button">对</string>
+    <string name="false_button">错</string>
+    <string name="last_button">上一题</string>
+    <string name="next_button">下一题</string>
+    <string name="warning_text">你确定这么做吗？</string>
+    <string name="show_answer_button">显示答案</string>
+    <string name="cheat_button">作弊</string>
+    <string name="judgment_toast">作弊是不对的！</string>
+    <string name="score_button">判定成绩</string>
+</resources>
